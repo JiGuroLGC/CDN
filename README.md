@@ -43,7 +43,7 @@
     <img src="http://socialify.git.ci/JiGuroLGC/BetterVia/image?custom_language=Java&description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Auto" width="660" height="300">
 </a>
 </p>
-**BetterVia** 是一款针对浏览器Via进行优化的模块，旨在使软件的使用更加轻快便捷。
+ **BetterVia** 是一款针对浏览器Via进行优化的模块，旨在使软件的使用更加轻快便捷。
 
 <p align="center">
 <a href="https://github.com/JiGuroLGC/BetterVia">
