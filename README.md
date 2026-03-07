@@ -107,6 +107,7 @@
 - 莫奈取色
 - 广告规则下载
 - Cookie管理
+- 隐私锁
 - 超级隐身
 - 截屏防护
 - 护眼模式
@@ -414,7 +415,8 @@
 
 | 名称 | 链接 | 详情 |
 | :--- | :--- | :--- |
-| AIDE + | [AIDE-Plus - GitHub](https://github.com/AndroidIDE-CN/AIDE-Plus) | 开发打包软件 |
+| IntelliJ IDEA | [IntelliJ IDEA - JetBrains](https://www.jetbrains.com/idea/) | 开发打包软件 |
+| AIDE + / AIDE Pro | [AIDE-Plus - GitHub](https://github.com/AndroidIDE-CN/AIDE-Plus) | 开发打包软件 |
 | Android IDE | [Android IDE - GitHub](https://github.com/AndroidIDEOfficial/AndroidIDE) | 开发打包软件 |
 | AOSP | [Android Open Source Project](https://source.android.google.cn) | 提供资源和参考 |
 | Xposed Framework API | [Xposed Framework API](https://api.xposed.info) | 提供Xposed接口支持 |

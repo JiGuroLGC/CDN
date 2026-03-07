@@ -107,6 +107,7 @@ However, **Via** still has some shortcomings, such as incomplete features and oc
 - Monet's color selection
 - Ad rule downloads
 - Cookie management
+- Privacy lock
 - Super incognito mode
 - Screenshot protection
 - Eye protection mode
@@ -415,7 +416,8 @@ The final interpretation of this statement is reserved by the declarant.
 
 | Name | Link | Details |
 | :--- | :--- | :--- |
-| AIDE + | [AIDE-Plus - GitHub](https://github.com/AndroidIDE-CN/AIDE-Plus) | Development and packaging software |
+| IntelliJ IDEA | [IntelliJ IDEA - JetBrains](https://www.jetbrains.com/idea/) | Development and packaging software |
+| AIDE + / AIDE Pro | [AIDE-Plus - GitHub](https://github.com/AndroidIDE-CN/AIDE-Plus) | Development and packaging software |
 | Android IDE | [Android IDE - GitHub](https://github.com/AndroidIDEOfficial/AndroidIDE) | Development and packaging software |
 | AOSP | [Android Open Source Project](https://source.android.google.cn) | Provides resources and references |
 | Xposed Framework API | [Xposed Framework API](https://api.xposed.info) | Provides Xposed interface support |
