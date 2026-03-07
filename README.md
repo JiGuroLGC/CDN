@@ -43,7 +43,6 @@
     <img src="http://socialify.git.ci/JiGuroLGC/BetterVia/image?custom_language=Java&description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Auto" width="660" height="300">
 </a>
 </p>
-
 **BetterVia** 是一款针对浏览器Via进行优化的模块，旨在使软件的使用更加轻快便捷。
 
 <p align="center">
@@ -204,6 +203,24 @@
 </a>
 </p>
 <div align="center">莫奈时刻(续2)</div>
+
+<br>
+
+<p align="center">
+<a href="https://github.com/JiGuroLGC/BetterVia">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/lock.png" width="315" height="660">
+</a>
+</p>
+<div align="center">隐私锁</div>
+
+<br>
+
+<p align="center">
+<a href="https://github.com/JiGuroLGC/BetterVia">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/lock2.png" width="315" height="660">
+</a>
+</p>
+<div align="center">隐私锁(续1)</div>
 
 <!----------------------- Cookie 管理 ------------------------>
 

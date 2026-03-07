@@ -205,6 +205,24 @@ To be continued...
 </p>
 <div align="center">Monet Moment (Continued2)</div>
 
+<br>
+
+<p align="center">
+<a href="https://github.com/JiGuroLGC/BetterVia">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/lock.png" width="315" height="660">
+</a>
+</p>
+<div align="center">Privacy Lock</div>
+
+<br>
+
+<p align="center">
+<a href="https://github.com/JiGuroLGC/BetterVia">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/lock2.png" width="315" height="660">
+</a>
+</p>
+<div align="center">Privacy Lock (Continued1)</div>
+
 <!----------------------- Cookie 管理 ------------------------>
 
 <br>
